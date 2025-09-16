@@ -6,13 +6,13 @@
 
 ```
 classwork/
-	main.py   # Аналіз метеоритів, статистика, графіки
-	p1.py     # Таблиця оцінок студентів, статуси
-	p2.py     # Таблиця + графік середніх балів
+	main.py
+	p1.py
+	p2.py
 hometask/
-	h1.py     # Приклад створення та запису CSV-файлу
-	h2.py     # (порожній, для власних завдань)
-Meteorite_Landings.csv  # Дані про падіння метеоритів
+	h1.py
+	h2.py
+Meteorite_Landings.csv
 README.md
 ```
 
