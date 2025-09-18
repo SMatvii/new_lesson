@@ -9,6 +9,7 @@ classwork/
 	main.py
 	p1.py
 	p2.py
+	p3.py
 hometask/
 	h1.py
 	h2.py
